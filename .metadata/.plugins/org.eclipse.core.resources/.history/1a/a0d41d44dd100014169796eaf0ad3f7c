@@ -1,0 +1,13 @@
+package keviniprogra1;
+
+public class miclase1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+System.out.println("hola mundo");
+System.out.println(230+96);
+
+
+	}
+
+}

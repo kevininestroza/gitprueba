@@ -1,0 +1,17 @@
+package keviniprogra1;
+
+public class miclase1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+int numero = 12;
+int otro_numero = 4;
+System.out.println(numero);
+numero = 10;
+System.out.println(numero);
+System.out.println(otro_numero);
+
+
+	}
+
+}

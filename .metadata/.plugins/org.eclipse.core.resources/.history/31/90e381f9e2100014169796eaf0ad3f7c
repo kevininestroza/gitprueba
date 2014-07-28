@@ -1,0 +1,15 @@
+package keviniprogra1;
+import java.util.Scanner;
+
+public class miclase1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+Scanner scanner = new Scanner(System.in);
+int numero = scanner.nextInt();
+System.out.print(numero+25);
+
+
+	}
+
+}

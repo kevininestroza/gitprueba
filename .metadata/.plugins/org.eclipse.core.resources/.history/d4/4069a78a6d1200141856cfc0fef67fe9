@@ -1,0 +1,19 @@
+package keviniprogra1;
+import java.util.Scanner;
+
+public class miclase1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+Scanner scanner = new Scanner(System.in);
+System.out.print("Ingrese un nuemero: ");
+int numero = scanner.nextInt();
+System.out.print("Ingrese otro numero: ");
+int numero2 = scanner.nextInt();
+System.out.print("suma: ");
+System.out.print (numero+numero2);
+
+
+	}
+
+}
